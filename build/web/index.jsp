@@ -11,7 +11,7 @@
     <body>
         <div class="mt-5 d-flex flex-column align-items-center">
             <h1 class="">Gestor de productos</h1>
-            <a class="mt-1 btn btn-success btn-lg" href="Controlador?accion=Listar">Ver Productos</a>
+            <a class="mt-1 btn btn-primary" href="Controlador?accion=Listar">Ver Productos</a>
         </div>
     </body>
 </html>
